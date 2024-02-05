@@ -10,4 +10,4 @@ This script allows you to batch export Clerk users.
 1. Click "Open in Colab" above.
 2. Enter your Clerk API key.
 3. Run the notebook.
-4. Download the file `clerk_users.json`.
+4. Download the file `clerk_users.csv`.
